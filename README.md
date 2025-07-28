@@ -6,9 +6,7 @@ for bepinex.
 
 ## Features
 - Easy-to-customize menu template
-- Clean UI
-- Sexy
-- Femboy
+- Clean Asf
 
 ## Installation
 
